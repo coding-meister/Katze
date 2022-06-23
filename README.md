@@ -1,9 +1,6 @@
 # Dajngo project
+
 내일배움캠프 AI 2기 팀 독고다이 작업 원격 저장소 입니다
-
-
-
-
 
 <h2>🦥독고다이 13조 김민석</h1>
 <ul>
@@ -19,10 +16,10 @@
 <li>정해진 기간안에 혼자서 완성시키는것 </li>
 <h2>✍개발 스택</h1>
 <div style="display:flex; flex-direction:row">
-    <img src="https://user-images.githubusercontent.com/100769423/166452723-565e4f8e-8ed5-40c7-b41e-e71a7fd636cf.svg">
-    <img src="https://user-images.githubusercontent.com/100769423/166452778-6bf21e33-989f-4759-93ef-dbb0862fffee.svg">
-    <img src="https://user-images.githubusercontent.com/100769423/166452783-bb2e89d4-fb58-48fe-86c5-d639d495602f.svg">
-    <img src="https://user-images.githubusercontent.com/100769423/166452833-ebd8d65a-adcc-44c0-9ced-45d1856df862.svg">
+    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
     <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
