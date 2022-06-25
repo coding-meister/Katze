@@ -34,5 +34,5 @@
 <h1>💻Planning</h1>
 <ul>
     <li><a href="https://xelf.io/projectDetail?pid=106ad123-62a1-4098-971f-f0db1ecada79&pType=2&curPage=1&sortOption=PROJ_WRITEDATE&keyword=&cclType=All&category=">⌨ Planning Doc</a></li>
-    <li><a href="https://github.com/tunEmvegnomb/clone_instagram/wiki/%F0%9F%8E%A8-Wire-Frame">🎨 Wire Frame</a></li>#아직못했음;; wire frame 오늘저녁까지 하자.
+    <li><a href="https://app.moqups.com/XjS0hWlN2b9T3OwHYNAB5J4cm9IlI3Hl/view/page/aa458c046">🎨 Wire Frame</a></li>
 </ul>
