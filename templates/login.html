@@ -18,9 +18,13 @@
     <
 
     <script>
-        {%if() msg %}
+        {%
+            if () msg %
+        }
         alert("{{ msg }}")
-        {%endif %}
+        {%
+            endif %
+        }
         // ['쿠키'라는 개념에 대해 알아봅시다]
         // 로그인을 구현하면, 반드시 쿠키라는 개념을 사용합니다.
         // 페이지에 관계없이 브라우저에 임시로 저장되는 정보입니다. 키:밸류 형태(딕셔너리 형태)로 저장됩니다.
@@ -57,7 +61,33 @@
         <div class="leftdiv" style="text-align: center; justify-content: center; float: left;">
             <img src="../static/img/Logo.jpeg" style="width:340px; height:450px; margin-top: 25px; margin-left: 50px;">
         </div>
-        <div class="rightdiv">
+        <div class="rightdiv"
+             style="float: right; align-content: center; justify-content: center; width:300px; height: 300px; margin-right: 70px; margin-top: 80px;">
+            <div class="form-floating mb-3" style="margin-left: 50px; margin-top: 30px">
+                <input type="text" class="form-control input-user-data" style="height: 40px;"
+                       placeholder="username..." name="username" id="username">
+                <label class="input-info">ID</label>
+            </div>
+            <div class="form-floating mb-3" style="margin-left: 50px; margin-top: 30px;">
+                <input type="password" class="form-control input-user-data" style="height: 40px;"
+                       placeholder="password..." name="password" id="password">
+                <label class="input-info">PW</label>
+                <div class="btndiv" style="margin-top: 50px">
+                    <button class="loginbtn" type="submit" style="height: 40px;
+    border: 1px solid cornflowerblue;
+    border-radius: 6%;
+    margin-right: 5px;
+    width: 250px;
+background: cornflowerblue">
+                        로그인 하기
+                    </button>
+                    <div class="ask-sign" style="margin-top: 30px;">집사가 아니냥?</br>
+                        <a class="go-to-login" href="/sign_up">
+                            회원가입 하자!
+                        </a>
+                    </div>
+                </div>
+            </div>
 
 
         </div>
